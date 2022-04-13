@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bluh7
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on community
 - 📫 How to reach me Discord 𝘽𝙡𝙪#6461
 
