@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Bluh7
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on community
-- 📫 How to reach me Discord 𝘽𝙡𝙪#6461
-
-<!---
-Bluh7/Bluh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Bluh7&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluh7&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
