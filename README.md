@@ -9,24 +9,25 @@
 
 - ⚡ Fun fact **I can be really dumb at math sometimes**
 
-
-<h2 align="center">Technologies</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,nodejs,vue,express,bash,linux" />
-  </a>
-</p>
-
-<h2 align="center">Databases</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
-</p>
-
-<h2 align="center">Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
-  </a>
-</p>
+<div align="center">
+  <h2>Technologies</h2>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,javascript,html,nodejs,vue,express,bash,linux" />
+    </a>
+  </p>
+  
+  <h2>Databases</h2>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    </a>
+  </p>
+  
+  <h2>Tools</h2>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
+   </a>
+  </p>
+</div>
