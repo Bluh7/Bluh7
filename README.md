@@ -32,4 +32,5 @@
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
    </a>
   </p>
+  <a href=#><img src="contributions.svg"></a>
 </div>
