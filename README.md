@@ -11,26 +11,12 @@
 
 - ⚡ Fun fact **I can be really dumb at math sometimes**
 
-<div align="center">
-  <h2>Technologies</h2>
+<div align="Center">
+  <h2>Skills</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,javascript,html,nodejs,vue,express,bash,linux" />
+      <img src="https://skillicons.dev/icons?i=python,javascript,html,nodejs,vue,express,bash,linux,vercel,mysql,mongodb,vscode,visualstudio,git,github&perline=5" />
     </a>
-  </p>
-  
-  <h2>Databases</h2>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-    </a>
-  </p>
-  
-  <h2>Tools</h2>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" />
-   </a>
   </p>
   <a href=#><img src="contributions.svg"></a>
 </div>
