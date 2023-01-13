@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **NodeJS and JavaScript**
 
-- 📫 Find me on Discord **𝘽𝙡𝙪#6461**
-
-- ⚡ Fun fact **I can be really dumb at math sometimes**
-
 <div align="center">
   <h2>Technologies</h2>
   <p>
