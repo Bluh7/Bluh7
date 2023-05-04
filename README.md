@@ -11,14 +11,14 @@
   <h2>Technologies</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,javascript,html,nodejs,vue,express,bash,linux,vercel" />
+      <img src="https://skillicons.dev/icons?i=python,javascript,html,nodejs,express,bash,linux,vercel" />
     </a>
   </p>
   
   <h2>Databases</h2>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
     </a>
   </p>
   
