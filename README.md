@@ -36,4 +36,4 @@
 
 <p>For now the current weather is <b>28°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:22</b> and give some space to moon at <b>17:09</b>.</p>
 <h3>Where you can find me</h3>
-<p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a></p>
+<p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> <a href="https://dcbadge.vercel.app/api/shield/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
