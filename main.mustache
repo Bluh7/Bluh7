@@ -1,4 +1,4 @@
-<h1>Hey there! Whassup?</h1>
+<h1><img src="/images/meow.gif" width="30"> Hey there! Whassup?</h1>
 
 
 <p>Welcome to my profile! </br> I'm Gabriel Perazzo, junior backend developer and student from <img src="/images/brazil-.png" width="13"/> <b>Recife, Brazil</b>, lived for 15 years in <img src="/images/brasilia-cathedral.png" width="13"/> <b>Brasilia, Brazil</b>. </p>
