@@ -1,0 +1,31 @@
+{
+  "name": "bluh7",
+  "version": "1.0.0",
+  "description": "My dynamic README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bluh7/Bluh7.git"
+  },
+  "keywords": [
+    "readme.md",
+    "dynamic",
+    "github",
+    "actions",
+    "javascript"
+  ],
+  "author": "Gabriel Perazzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bluh7/Bluh7/issues"
+  },
+  "homepage": "https://github.com/Bluh7/Bluh7#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.11"
+  }
+}
