@@ -23,7 +23,10 @@ getWeatherData = async () => {
   )
     .then(response => response.json())
     .then(response => {
-      DATA.city_temp = Math.round(response.main.temp);
+      if (response.cod !== 200) {
+        throw new Error(response.message);
+      }
+      DATA.city_temperature = Math.round(response.main.temp);
       DATA.city_weather = response.weather[0].description;
       DATA.sun_rise = new Date(response.sys.sunrise * 1000).toLocaleTimeString('pt-BR', {
         hour: '2-digit',
