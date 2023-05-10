@@ -26,6 +26,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Generate README file
+        run: echo {{ secrets.OPEN_WEATHER_MAP_KEY }}
         run: node index.js
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master

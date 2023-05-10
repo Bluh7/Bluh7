@@ -24,6 +24,7 @@ getWeatherData = async () => {
     .then(response => response.json())
     .then(response => {
       if (response.cod !== 200) {
+        console.log("env key" + process.env.OPEN_WEATHER_MAP_KEY)
         throw new Error(response.message);
       }
       DATA.city_temperature = Math.round(response.main.temp);
