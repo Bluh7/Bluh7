@@ -6,7 +6,7 @@ const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
-  refresh_date: new Date().toLocaleDateString('Pt-br', {
+  refresh_date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
