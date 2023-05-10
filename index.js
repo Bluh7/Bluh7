@@ -17,6 +17,30 @@ let DATA = {
   }),
 };
 
+getRandomPhoto = async () => {
+  await fetch(
+    `https://api.unsplash.com/photos/random/?client_id=${process.env.UNSPLASH_KEY}&query=landscape&orientation=landscape&featured=true&order_by=popular`
+  )
+    .then(response => response.json())
+    .then(response => {
+      if (response.cod !== 200) {
+        throw new Error(response.message);
+      }
+      DATA.background_image = response.urls.regular;
+      DATA.background_author = response.user.name;
+      DATA.background_date = new Date(response.created_at).toLocaleDateString('en-GB', {
+        weekday: 'long',
+        month: 'long',
+        day: 'numeric',
+        hour: 'numeric',
+        minute: 'numeric',
+        year: 'numeric',
+        timeZoneName: 'short',
+        timeZone: 'America/Sao_Paulo',
+      });
+    });
+};
+
 getWeatherData = async () => {
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=recife&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
@@ -50,6 +74,9 @@ generateReadme = async () => {
 };
 
 action = async () => {
+  // Fetch Random Photo from Unsplash API
+  await getRandomPhoto();
+
   // Fetch Weather Data from OpenWeather API
   await getWeatherData();
 

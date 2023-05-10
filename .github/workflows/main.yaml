@@ -10,7 +10,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    environment: OPEN_WEATHER_MAP_KEY
+    environment: API_KEYS
 
     steps:
       - name: checkout
@@ -30,6 +30,7 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+          UNSPLASH_KEY: ${{secrets.UNSPLASH_KEY}}
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
