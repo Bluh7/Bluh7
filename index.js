@@ -24,6 +24,7 @@ getRandomPhoto = async () => {
     .then(response => response.json())
     .then(response => {
       if (response.cod !== 200) {
+        console.log(response);
         throw new Error(response.message);
       }
       DATA.background_image = response.urls.regular;
