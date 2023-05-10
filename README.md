@@ -39,4 +39,4 @@
 <p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> <a href="https://dcbadge.vercel.app/api/shield/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: terça-feira, 9 de maio 23:17 BRT</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Tuesday, 9 May, 23:20 GMT-3</p>
