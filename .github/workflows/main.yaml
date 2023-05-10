@@ -1,8 +1,5 @@
 name: README build
 
-env:
-  OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
-
 on:
   push:
     branches:
@@ -28,10 +25,10 @@ jobs:
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
-      - name: Setup OpenWeatherMap API key
-        run: echo OPEN_WEATHER_MAP_KEY=${{ secrets.OPEN_WEATHER_MAP_KEY }} >> .env
       - name: Generate README file
         run: node index.js
+        env:
+          OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:
