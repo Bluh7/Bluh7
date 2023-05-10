@@ -5,14 +5,12 @@
 <h3>Things I like to code with</h3>
 
 <p>
-  <img src="/svg/digitalocean.svg" alt="DigitalOcean">
   <img src="/svg/chrome.svg" alt="GoogleChrome">
   <img src="/svg/python.svg" alt="Python">
   <img src="/svg/expressjs.svg" alt="ExpressJS">
   <img src="/svg/javascript.svg" alt="Javascript">
   <img src="/svg/nodemon.svg" alt="Nodemon">
   <img src="/svg/mysql.svg" alt="MySQL">
-  <img src="/svg/vercel.svg" alt="Vercel">
   <img src="/svg/html.svg" alt="HTML5">
   <img src="/svg/git.svg" alt="Git">
   <img src="/svg/npm.svg" alt="NPM">
@@ -33,11 +31,11 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1543964198-d54e4f0e44e3?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;Mnw0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNjgzNzMxMzIw&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>This photo was taken by <b>Damian Denis</b> at <b>Tuesday, 4 December 2018, 20:57 GMT-2</b>.</p>
-<p>For now the current weather is <b>29°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:22</b> and give moon some space at <b>17:09</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1426604966848-d7adac402bff?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;Mnw0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNjgzNzM2NTk3&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>This photo was taken by <b>Adam Kool</b> at <b>Tuesday, 17 March 2015, 12:18 GMT-3</b>.</p>
+<p>For now the current weather is <b>30°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:22</b> and give moon some space at <b>17:09</b>.</p>
 <h3>Where you can find me</h3>
 <p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> <a href="https://dcbadge.vercel.app/api/shield/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Wednesday, 10 May, 12:08 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Wednesday, 10 May, 13:36 GMT-3</p>
