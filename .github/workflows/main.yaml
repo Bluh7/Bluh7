@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: checkout
         uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
+      - name: setup node
         uses: actions/setup-node@v1
         with:
           node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
+      - name: cache
         uses: actions/cache@v1
         with:
           path: node_modules
@@ -28,8 +28,8 @@ jobs:
       - name: Generate README file
         run: node index.js
         env:
-          OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
-      - name: Commit and Push new README.md to the repository
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
