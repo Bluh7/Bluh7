@@ -25,8 +25,7 @@ getRandomPhoto = async () => {
       .then(response => response.json())
       .then(response => {
         if (response.cod !== 200) {
-          console.log(response);
-          throw new Error(response.message);
+          console.log('Unsplash Error occurred: ', response.errors)
         }
         DATA.background_image = response.urls.regular;
         DATA.background_author = response.user.name;
@@ -54,7 +53,7 @@ getWeatherData = async () => {
       .then(response => response.json())
       .then(response => {
         if (response.cod !== 200) {
-          throw new Error(response.message);
+          console.log('OpenWeatherMap Error occurred: ', response.errors)
         }
         DATA.city_temperature = Math.round(response.main.temp);
         DATA.city_weather = response.weather[0].description;
