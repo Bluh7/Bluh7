@@ -1,8 +1,8 @@
 <h1><img src="/images/meow.gif" width="30"> Hey there! Whassup?</h1>
 
 
-<p>Welcome to my profile! </br> I'm Gabriel Perazzo, junior backend developer and student from <img src="/images/brazil-.png" width="13"/> <b>Recife, Brazil</b>, lived for 15 years in <img src="/images/brasilia-cathedral.png" width="13"/> <b>Brasilia, Brazil</b>. </p>
-<h3>Things I like to code with</h3>
+<p>Welcome to my profile! </br> I'm Gabriel Perazzo, junior back-end developer and student from <img src="/images/brazil-.png" width="13"/> <b>Recife, Brazil</b>.</p>
+<h3>Things I like to code with an awful front-end</h3>
 
 <p>
   <img src="/svg/chrome.svg" alt="GoogleChrome">
@@ -42,11 +42,11 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1508739773434-c26b3d09e071?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzE5MTAyNzQ3fA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>This photo was taken by <b>Cristina Gottardi</b> at <b>Monday, 23 October 2017, 04:23 GMT-2</b>.</p>
-<p>For now the current weather is <b>27°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:31</b> and give moon some space at <b>17:11</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1485470733090-0aae1788d5af?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzE5MTA5MjI2fA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>This photo was taken by <b>Daniel Leone</b> at <b>Thursday, 26 January 2017, 21:14 GMT-2</b>.</p>
+<p>For now the current weather is <b>25°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:31</b> and give moon some space at <b>17:11</b>.</p>
 <h3>Where you can find me</h3>
 <p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="/svg/github.svg"/></a> <a href="https://discord.com/users/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Saturday, 22 June, 21:32 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Saturday, 22 June, 23:20 GMT-3</p>
