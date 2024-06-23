@@ -16,7 +16,7 @@
   <img src="/svg/npm.svg" alt="NPM">
   <img src="/svg/nodejs.svg" alt="NodeJS">
 </p>
-<h3>My projects</h3>
+<h3>Some of my projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -26,8 +26,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Bluh7/Weather-Search"><b>NodeJS Express Javascript weather website</b></a></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bluh7/Weather-Search?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Bluh7/URL-shortener-API"><b>URL shortener API</b></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Bluh7/URL-shortener-API?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Bluh7/spotify-lyrics-scraper"><b>Web Scraping API to get lyrics from Spotify</b></a></td>
@@ -39,11 +39,11 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1494625927555-6ec4433b1571?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzE5MTAxMzIyfA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>This photo was taken by <b>🧔‍♂️ Michal Kmeť</b> at <b>Friday, 12 May 2017, 18:54 GMT-3</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1518717202715-9fa9d099f58a?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzE5MTAxNjQxfA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>This photo was taken by <b>Chris Barbalis</b> at <b>Thursday, 15 February 2018, 15:54 GMT-2</b>.</p>
 <p>For now the current weather is <b>28°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:31</b> and give moon some space at <b>17:11</b>.</p>
 <h3>Where you can find me</h3>
 <p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="/svg/github.svg"/></a> <a href="https://discord.com/users/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Saturday, 22 June, 21:08 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Saturday, 22 June, 21:14 GMT-3</p>
