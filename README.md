@@ -1,23 +1,21 @@
 <h1><img src="/images/meow.gif" width="30"> Hey there! Whassup?</h1>
 
 
-<p>Welcome to my profile! </br> I'm Gabriel Perazzo, junior backend developer and student from <img src="/images/brazil-.png" width="13"/> <b>Recife, Brazil</b>, lived for 15 years in <img src="/images/brasilia-cathedral.png" width="13"/> <b>Brasilia, Brazil</b>. </p>
+<p>Welcome to my profile </br> I'm Gabriel Perazzo, junior back-end developer and student.<p>
 <h3>Things I like to code with</h3>
 
 <p>
-  <img src="/svg/chrome.svg" alt="GoogleChrome">
   <img src="/svg/python.svg" alt="Python">
-  <img src="/svg/expressjs.svg" alt="ExpressJS">
-  <img src="/svg/javascript.svg" alt="Javascript">
-  <img src="/svg/nodemon.svg" alt="Nodemon">
-  <img src="/svg/mysql.svg" alt="MySQL">
-  <img src="/svg/html.svg" alt="HTML5">
-  <img src="/svg/git.svg" alt="Git">
-  <img src="/svg/npm.svg" alt="NPM">
-  <img src="/svg/nodejs.svg" alt="NodeJS">
   <img src="/svg/typescript.svg" alt="Typescript">
+  <img src="/svg/javascript.svg" alt="Javascript">
+  <img src="/svg/expressjs.svg" alt="ExpressJS">
   <img src="/svg/prisma.svg" alt="Prisma">
   <img src="/svg/postgre.svg" alt="PostgreSQL">
+  <img src="/svg/mysql.svg" alt="MySQL">
+  <img src="/svg/git.svg" alt="Git">
+  <img src="/svg/npm.svg" alt="NPM">
+  <img src="/svg/nodemon.svg" alt="Nodemon">
+  <img src="/svg/nodejs.svg" alt="NodeJS">
 </p>
 <h3>Some of my projects</h3>
 <table>
