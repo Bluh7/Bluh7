@@ -42,11 +42,11 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1438786657495-640937046d18?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzI1MDQwOTc2fA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>This photo was taken by <b>Claudel Rheault</b> at <b>Wednesday, 5 August 2015, 12:05 GMT-3</b>.</p>
-<p>For now the current weather is <b>28°C, <i>few clouds</i></b></br>Today, the sun will start to shine at <b>05:21</b> and give moon some space at <b>17:18</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1534030665069-90e016e995e5?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzI1MDUxNzQwfA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>This photo was taken by <b>Raquel Pedrotti</b> at <b>Sunday, 12 August 2018, 00:05 GMT-3</b>.</p>
+<p>For now the current weather is <b>26°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:21</b> and give moon some space at <b>17:18</b>.</p>
 <h3>Where you can find me</h3>
 <p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="/svg/github.svg"/></a> <a href="https://discord.com/users/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Friday, 30 August, 15:02 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Friday, 30 August, 18:02 GMT-3</p>
