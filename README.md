@@ -42,11 +42,11 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1490682143684-14369e18dce8?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzM2ODk5NzUzfA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>This photo was taken by <b>Artem Sapegin</b> at <b>Tuesday, 28 March 2017, 06:09 GMT-3</b>.</p>
-<p>For now the current weather is <b>28°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:12</b> and give moon some space at <b>17:44</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1552598715-7eeb9232a2ac?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzM2OTEwMTgxfA&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>This photo was taken by <b>Engjell Gjepali</b> at <b>Thursday, 14 March 2019, 18:27 GMT-3</b>.</p>
+<p>For now the current weather is <b>28°C, <i>light rain</i></b></br>Today, the sun will start to shine at <b>05:12</b> and give moon some space at <b>17:44</b>.</p>
 <h3>Where you can find me</h3>
 <p><a href="https://github.com/Bluh7" target="_blank"><img alt="Github" src="/svg/github.svg"/></a> <a href="https://discord.com/users/757738778633961592" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/757738778633961592" alt="Discord"></a></p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Tuesday, 14 January, 21:09 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Wednesday, 15 January, 00:03 GMT-3</p>
