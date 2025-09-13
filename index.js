@@ -20,7 +20,7 @@ let DATA = {
 getRandomPhoto = async () => {
   try {
     await fetch(
-      `https://api.unsplash.com/photos/random/?client_id=${process.env.UNSPLASH_KEY}&query=landscape&orientation=landscape&featured=true&order_by=popular`
+      `https://api.unsplash.com/photos/random/?client_id=${process.env.UNSPLASH_KEY}&query=street%20Japan&orientation=landscape&featured=true&order_by=popular`
     )
       .then(response => response.json())
       .then(response => {
