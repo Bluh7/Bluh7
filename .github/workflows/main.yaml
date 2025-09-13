@@ -13,25 +13,36 @@ jobs:
     environment: API_KEYS
 
     steps:
-      - name: checkout
-        uses: actions/checkout@v1
-      - name: setup node
-        uses: actions/setup-node@v1
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: '13.x'
-      - name: cache
-        uses: actions/cache@v1
+          node-version: '18' # Node 13 is deprecated; using LTS
+
+      - name: Cache Node modules
+        uses: actions/cache@v3
         with:
           path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
       - name: Install dependencies
         run: npm install
+
       - name: Generate README file
         run: node index.js
         env:
-          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-          UNSPLASH_KEY: ${{secrets.UNSPLASH_KEY}}
-      - name: Push new README.md
-        uses: mikeal/publish-to-github-action@master
+          OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
+          UNSPLASH_KEY: ${{ secrets.UNSPLASH_KEY }}
+
+      - name: Commit and push README
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README.md
+          branch: master
+          file_pattern: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
