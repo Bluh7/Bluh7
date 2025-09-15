@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1663339198380-65de659b79fe?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzU3ODgzODQ0fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>Simon Spring</b> on <b>Friday 16 September 2022 at 11:42 GMT-3</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1658941182639-35c8d8d99a92?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzU3ODk1NTg2fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Coleen P.</b> on <b>Wednesday 27 July 2022 at 14:03 GMT-3</b>.</p>
 <p>For now the current weather is <b>26°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:13</b> and give moon some space at <b>17:16</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Sunday 14 September at 18:04 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Sunday 14 September at 21:19 GMT-3</p>
