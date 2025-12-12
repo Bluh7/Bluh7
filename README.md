@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1733467803077-66317afe39f2?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzY1NTYyODM3fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>enkuu smile</b> on <b>Friday 6 December 2024 at 03:50 GMT-3</b>.</p>
-<p>For now the current weather is <b>30°C, <i>few clouds</i></b></br>Today, the sun will start to shine at <b>04:55</b> and give moon some space at <b>17:30</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1735299362091-33c94b71a758?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzY1NTczNTA2fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Sung Jin Cho</b> on <b>Friday 27 December 2024 at 08:36 GMT-3</b>.</p>
+<p>For now the current weather is <b>28°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>04:55</b> and give moon some space at <b>17:30</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Friday 12 December at 15:07 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Friday 12 December at 18:05 GMT-3</p>
