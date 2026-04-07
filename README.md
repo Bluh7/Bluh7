@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1745901405240-20c47112917c?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzc1NTY0NTE4fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>Rafael Otaki</b> on <b>Tuesday 29 April 2025 at 01:48 GMT-3</b>.</p>
-<p>For now the current weather is <b>25°C, <i>light rain</i></b></br>Today, the sun will start to shine at <b>05:21</b> and give moon some space at <b>17:20</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1700573932119-23a327af9513?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzc1NTc1ODgwfA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Leo Okuyama</b> on <b>Tuesday 21 November 2023 at 10:40 GMT-3</b>.</p>
+<p>For now the current weather is <b>29°C, <i>overcast clouds</i></b></br>Today, the sun will start to shine at <b>05:21</b> and give moon some space at <b>17:20</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Tuesday 7 April at 09:21 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Tuesday 7 April at 12:31 GMT-3</p>
