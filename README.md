@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1727066364261-bc177e435fd3?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzc2MTY5NDQwfA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>Sora Sagano</b> on <b>Monday 23 September 2024 at 01:39 GMT-3</b>.</p>
-<p>For now the current weather is <b>27°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:21</b> and give moon some space at <b>17:17</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1712200574098-2cea61d1f8f7?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzc2MTgwNDgyfA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Halogen Condense</b> on <b>Thursday 4 April 2024 at 00:16 GMT-3</b>.</p>
+<p>For now the current weather is <b>29°C, <i>overcast clouds</i></b></br>Today, the sun will start to shine at <b>05:21</b> and give moon some space at <b>17:17</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Tuesday 14 April at 09:23 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Tuesday 14 April at 12:28 GMT-3</p>
