@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1648610151915-ce0b97a49697?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzgwNzA2ODU2fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>Roméo A.</b> on <b>Wednesday 30 March 2022 at 00:20 GMT-3</b>.</p>
-<p>For now the current weather is <b>25°C, <i>few clouds</i></b></br>Today, the sun will start to shine at <b>05:28</b> and give moon some space at <b>17:08</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1578469645742-46cae010e5d4?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzgwNzE5ODY3fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Cosmin Georgian</b> on <b>Wednesday 8 January 2020 at 04:49 GMT-3</b>.</p>
+<p>For now the current weather is <b>25°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:28</b> and give moon some space at <b>17:08</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Friday 5 June at 21:47 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Saturday 6 June at 01:24 GMT-3</p>
