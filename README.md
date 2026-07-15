@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1610338730334-ad75b9328d05?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzg0MTEyNDEyfA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>Samuel Berner</b> on <b>Monday 11 January 2021 at 01:28 GMT-3</b>.</p>
-<p>For now the current weather is <b>26°C, <i>clear sky</i></b></br>Today, the sun will start to shine at <b>05:34</b> and give moon some space at <b>17:16</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1578271887552-5ac3a72752bc?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzg0MTIyNzE1fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Max Bender</b> on <b>Sunday 5 January 2020 at 22:03 GMT-3</b>.</p>
+<p>For now the current weather is <b>27°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:34</b> and give moon some space at <b>17:16</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Wednesday 15 July at 07:46 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Wednesday 15 July at 10:38 GMT-3</p>
