@@ -53,9 +53,9 @@
     </tr>
   </tbody>
 </table>
-<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1549548284-28057f92c497?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzg4Njk4MTYzfA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
-<p>Photo taken by <b>Roméo A.</b> on <b>Thursday 7 February 2019 at 12:05 GMT-2</b>.</p>
-<p>For now the current weather is <b>28°C, <i>broken clouds</i></b></br>Today, the sun will start to shine at <b>05:18</b> and give moon some space at <b>17:17</b>.</p>
+<p><img src="https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1594847110727-c9d3ed572eba?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3w0NDY1OTR8MHwxfHJhbmRvbXx8fHx8fHwxfHwxNzg4NzE1Nzg0fA&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;1080" width="600"></p>
+<p>Photo taken by <b>Katrina Mulfati</b> on <b>Wednesday 15 July 2020 at 18:14 GMT-3</b>.</p>
+<p>For now the current weather is <b>29°C, <i>scattered clouds</i></b></br>Today, the sun will start to shine at <b>05:18</b> and give moon some space at <b>17:17</b>.</p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Sunday 6 September at 09:36 GMT-3</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b> by GitHub Actions!</br>Last refresh: Sunday 6 September at 14:29 GMT-3</p>
